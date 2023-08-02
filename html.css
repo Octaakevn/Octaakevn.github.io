@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dewi Enjely Tri Oktaviani - portofolio saya</title>
+    <link rel="stylesheet" href="./styles/style.css"/>
+</head>   
+  <body>
+
+    <!-- Header-->
+    <header>
+        <div class="main-container">
+          <div class="nav"></div>
+             <div class="logo"></div>
+             <a href="/">DA</a>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#services">Service</a></li>
+                <li><a href="#portfolios">Portfolio</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li>
+                   <a href="/resume.pdf" target="_blank">
+                     <button class="btn">Resume</button>
+                   </a>
+                </li>
+            </ul>
+        </nav>
+
+        <div class="burger">
+            <div class="line-1"></div>
+            <div class="line-2"></div>
+            <div class="line-3"></div>
+        </div>
+    <header>
+        <!-- End of Header-->   
+    
